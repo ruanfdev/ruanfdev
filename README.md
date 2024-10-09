@@ -11,8 +11,6 @@
 <br>
 ![ruanfdev - Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruanfdev&theme=catppuccin_mocha&hide_border=true)
 <br>
-![ruanfdev - Stats](https://github-readme-stats.vercel.app/api?username=ruanfdev&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)
-<br>
 ![ruanfdev - Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanfdev&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
