@@ -27,8 +27,6 @@
 ![ruanfdev - Profile Last Updated](https://img.shields.io/badge/about_last_updated-2024%2F10%2F10-blue?style=flat)
 <br>
 ![ruanfdev - Profile Counter](https://profile-counter.glitch.me/ruanfdev/count.svg)
-<br>
-[![ruanfdev - Profile Counter](https://visitcount.itsvg.in/api?id=ruanfdev&icon=7&color=8)](https://visitcount.itsvg.in)
 
 </div>
   
