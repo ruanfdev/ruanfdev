@@ -28,7 +28,7 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/ruanfdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ruan-ferreira-35153b350/)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/ruanfdev)
 <br>
 ![ruanfdev - Profile Last Updated](https://img.shields.io/badge/about_last_updated-2024%2F10%2F10-blue?style=flat)
