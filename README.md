@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-👨‍💻 I'm currently working on:<br>🌐 Full Stack Development since 2009<br>🦀 Expanding Rust skills for native application development<br>📱 Advancing Flutter knowledge for cross-platform mobile apps<br>🧰 Improving Laravel proficiency for PHP web applications
+👨‍💻 I'm currently working on:<br>🌐 Full-stack web platforms and backend architecture (since 2010)<br>🦀 Building native tools and high-performance services with Rust<br>🧰 Architecting robust applications across the modern PHP & Laravel ecosystem<br>⚡ Designing reactive interfaces with modern frontend tooling
 
 # 💻 Tech Stack:
 ![ruanfdev - Daily Driver CachyOS](https://img.shields.io/badge/Daily_Driver-CachyOS-blue?style=flat)
